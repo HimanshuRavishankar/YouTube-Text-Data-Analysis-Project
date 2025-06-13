@@ -22,6 +22,11 @@ This project explores text-based and metadata insights from YouTube video datase
 - YouTube video metadata including titles, tags, views, likes, dislikes, etc.
 - User comments data for sentiment and emoji analysis.
 
+## 📂 Data Access
+
+The dataset used in this project is available on Google Drive:
+
+🔗 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1gnFoDpP1akcyEBMOZ2oWylcHbSwY7NyE/view?usp=sharing)
 ---
 
 ## 📦 Technologies Used
@@ -73,9 +78,7 @@ This project explores text-based and metadata insights from YouTube video datase
 📁 YouTube-Text-Data-Analysis/
 │
 ├── YouTube_Analysis_Notebook.ipynb   # Main notebook with all analyses
-├── data/                              # Raw datasets, requirements(packages)
 ├── visualizations/                    # Plots and word clouds
-├── outputs/                           # Exported data
 ├── README.md                          # Project overview
 ```
 
